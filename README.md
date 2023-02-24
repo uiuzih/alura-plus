@@ -5,7 +5,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Alura+**
 | :label: Tecnologias | javascript, html, css e Figma
-| :rocket: URL         | https://uiuzih.github.io/Alura-plus/
+| :rocket: URL         | https://uiuzih.github.io/alura-plus/
 
 ![](/img/Aluraplusfoto.PNG#vitrinedev)
 
