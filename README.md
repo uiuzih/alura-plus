@@ -1,10 +1,10 @@
 # Alura Plus
 
 
-| :placard: Vitrine.Dev |     |
+| Vitrine.Dev |   https://cursos.alura.com.br/vitrinedev/willsmenezs  |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura+**
-| :label: Tecnologias | javascript, html, css e Figma (tecnologias utilizadas)
+| :label: Tecnologias | javascript, html, css e Figma
 | :rocket: URL         | https://uiuzih.github.io/Alura-plus/
 
 ![](/img/Aluraplusfoto.PNG#vitrinedev)
